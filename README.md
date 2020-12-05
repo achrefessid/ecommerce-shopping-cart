@@ -3,7 +3,7 @@
 ## Demo
 Open  [Shopping Cart Demo](https://achrefessid.github.io/ecommerce-shopping-cart/)
 
-![Demo](https://achrefessid.github.io/ecommerce-shopping-cart/demo.gif)
+![Demo](https://basir.github.io/ecommerce-shopping-cart/demo.gif)
 
 ## Install
 ```
